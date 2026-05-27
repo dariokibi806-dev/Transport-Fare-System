@@ -1,0 +1,2 @@
+# Transport-Fare-System
+This is group 6 day doing a transport fare system in C.
